@@ -1,6 +1,6 @@
 # EXP 1 A : COMPUTATION OF DFT USING DIRECT AND FFT
 
-# REG NO.:212223060137
+# REG NO.:212223060268
 
 # AIM: 
 
@@ -150,19 +150,3 @@ title('Phase Spectrum');
 
 # RESULT: 
 Thus, the Discrete Fourier Transform and Fast Fourier Transform of the given sequence were obtained and its magnitude and phase spectrum were plotted.
-# EXP 1 A : COMPUTATION OF DFT USING DIRECT AND FFT
-
-# AIM: 
-
-# To Obtain DFT and FFT of a given sequence in SCILAB. 
-
-# APPARATUS REQUIRED: 
-PC installed with SCILAB. 
-
-# PROGRAM: 
-// DISCRETE FOURIER TRANSFORM 
-
-# OUTPUT: 
-
-
-# RESULT: 
